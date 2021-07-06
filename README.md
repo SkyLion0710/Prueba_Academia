@@ -2,7 +2,7 @@
 
 Es un gusto que puedas aplicar para unirte a nuestro equipo de desarrollo.
 
-Para que te hagas una idea acerca de tu trabajo, nos gustaría que completes la siguiente prueba. Tené en cuanta que no hay un mínimo de tiempo para la entrega, pero si un máximo de 5 días para completarla (la entrega deberá ser como máximo hasta el Lunes 12/07/2021 a las 09:00 hs.)
+Para que te hagas una idea acerca de tu trabajo, nos gustaría que completes la siguiente prueba. Tené en cuenta que no hay un mínimo de tiempo para la entrega, pero si un máximo de 5 días para completarla (la entrega deberá ser como máximo hasta el Lunes 12/07/2021 a las 09:00 hs.)
 
 La prueba consiste en dos secciones opcionales una de la otra, es decir que podes optar por realizar una o las dos.
 
@@ -33,8 +33,10 @@ Nos gustaría que repliques la API que disponibilizamos para la sección fronten
 La base de datos a utilizar la podes encontrar en la carpeta Modelos. En ella encontrarás los diferentes archivos que funcionarán como carpetas y un archivo llamado folders.json el cual devolverá el array de carpetas disponibles.
 
 #### REQUISITOS PARA ESTA SECCIÓN
-- Cualquier lenguaje que permita desarrollar un servicio web.
-- La inserción y el borrado debe ser persistente en la base de datos.
+- Cualquier lenguaje que permita desarrollar un servicio web. Puede ser un servicio REST, SOAP u ODATA.
+- La API de listado de mensajes debe contener como minimo los filtros indicados en la documentacion.
+- Podes usar archivos como origen de los datos. (No es obligatorio usar una base de datos)
+- La inserción y el borrado debe ser persistente.
 
 #### PUNTOS EXTRA
 Los siguientes puntos extras solo serán considerados si se encuentra la funcionalidad básica informada anteriormente
